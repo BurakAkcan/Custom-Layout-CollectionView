@@ -3,7 +3,7 @@
 ## ✍️ About
 This repository contains examples of custom layout collection view.
 
-## ? Why we need use custom layout ?
+## 🤔 Why we need use custom layout ?
  Collection views can be used with default flow layout. The layout needs a protocol to be implemented in order to get the layout information. 
  The protocol is the UICollectionViewDelegateFlowLayout. The delegate of the collection view will also act as a delegate to the flow layout.
  This layout will help us in solving our daily work, but it will not be enough when we want to solve the problem in complex works.
