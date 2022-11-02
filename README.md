@@ -15,10 +15,10 @@ This repository contains examples of custom layout collection view.
   - layoutAttributesForElements(in:): This method returns layout attributes for all cells and supplementary views, which intersect the specified rectangle.
   - layoutAttributesForItem(at:): This method we need to override in this tutorial returns layout attributes for an item at a specific index path.
  
- ## Requirements
+ ## ⚙️ Requirements
   You need to have Git, Swift and Xcode installed.
   
-  ## Demo
+ ## 🎥 Demo
   
   ### Basic Flow Layout
 ![BasicFlowLayout_AdobeExpress](https://user-images.githubusercontent.com/106486885/199509312-8b06c9ff-e8c1-413a-9d07-4a7539f366e4.gif)
