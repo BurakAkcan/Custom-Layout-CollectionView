@@ -22,11 +22,11 @@ This repository contains examples of custom layout collection view.
   
   ### Basic Flow Layout
 ![BasicFlowLayout_AdobeExpress](https://user-images.githubusercontent.com/106486885/199509312-8b06c9ff-e8c1-413a-9d07-4a7539f366e4.gif)
-  ### Basic Flow Layout
+  ### Carosel Layout
 ![CaroselLayout_AdobeExpress](https://user-images.githubusercontent.com/106486885/199509813-d171193f-9381-4c66-8570-639ded76d9ef.gif)
-  ### Basic Flow Layout
+  ### Stretchy Header 
 ![Stretchy_Header_AdobeExpress](https://user-images.githubusercontent.com/106486885/199510214-c48b3e72-cbbe-4961-8037-fbbeac13fd24.gif)
-  ### Basic Flow Layout
+  ### Mosaic Layout
 ![MosaicLayout_AdobeExpress](https://user-images.githubusercontent.com/106486885/199507767-38608009-4ea9-459f-9f23-b9af81eac3c0.gif)
 
 
