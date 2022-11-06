@@ -1,7 +1,7 @@
 # Custom-Layout-CollectionView
 
 ## ✍️ About
-This repository contains examples of custom layout collection view.
+This repository contains examples of custom layout collection view and drag, drop cells.
 
 ## 🤔 Why we need custom layout ?
  Collection views can be used with default flow layout. The layout needs a protocol to be implemented in order to get the layout information. 
@@ -20,6 +20,9 @@ This repository contains examples of custom layout collection view.
   
  ## 🎥 Demo
   
+  ### Drag Drop Cells
+  ![Simulator_Screen_Recording_-_iPhone_12_-_2022-11-06_at_20_54_50_AdobeExpress](https://user-images.githubusercontent.com/106486885/200187160-c72ea075-d420-460f-a096-a7a801bca66b.gif)
+
   ### Basic Flow Layout
 ![BasicFlowLayout_AdobeExpress](https://user-images.githubusercontent.com/106486885/199509312-8b06c9ff-e8c1-413a-9d07-4a7539f366e4.gif)
   ### Carosel Layout
