@@ -21,12 +21,8 @@ This repository contains examples of custom layout collection view and drag, dro
  ## 🎥 Demo
   
   ### Drag Drop Cells
-  ![Simulator_Screen_Recording_-_iPhone_12_-_2022-11-06_at_20_54_50_AdobeExpress](https://user-images.githubusercontent.com/106486885/200187160-c72ea075-d420-460f-a096-a7a801bca66b.gif)
-  
-  ![Simulator_Screen_Recording_-_iPhone_12_-_2022-11-06_at_20_54_50_AdobeExpress (1)](https://user-images.githubusercontent.com/106486885/200187271-189b4359-89d2-4aea-8dda-a1f3a2329cb1.gif)
-
-
-  ### Basic Flow Layout
+![Simulator_Screen_Recording_-_iPhone_12_-_2022-11-06_at_20_54_50_AdobeExpress (1)](https://user-images.githubusercontent.com/106486885/200187271-189b4359-89d2-4aea-8dda-a1f3a2329cb1.gif)
+ ### Basic Flow Layout
 ![BasicFlowLayout_AdobeExpress](https://user-images.githubusercontent.com/106486885/199509312-8b06c9ff-e8c1-413a-9d07-4a7539f366e4.gif)
   ### Carosel Layout
 ![CaroselLayout_AdobeExpress](https://user-images.githubusercontent.com/106486885/199509813-d171193f-9381-4c66-8570-639ded76d9ef.gif)
